@@ -1062,6 +1062,14 @@ html {
     border-radius: 3rem;
   }
 
+  .md\:rounded-\[6em\] {
+    border-radius: 6em;
+  }
+
+  .md\:rounded-\[5em\] {
+    border-radius: 5em;
+  }
+
   .md\:rounded-tl-\[1\.5rem\] {
     border-top-left-radius: 1.5rem;
   }
@@ -1176,6 +1184,10 @@ html {
 
   .\32xl\:rounded-\[5rem\] {
     border-radius: 5rem;
+  }
+
+  .\32xl\:rounded-\[8em\] {
+    border-radius: 8em;
   }
 
   .\32xl\:rounded-bl-\[2\.5rem\] {
