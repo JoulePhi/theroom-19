@@ -813,11 +813,6 @@ video {
      object-fit: cover;
 }
 
-.object-fill {
-  -o-object-fit: fill;
-     object-fit: fill;
-}
-
 .object-bottom {
   -o-object-position: bottom;
      object-position: bottom;
@@ -899,10 +894,6 @@ video {
 .text-6xl {
   font-size: 3.75rem;
   line-height: 1;
-}
-
-.text-\[5rem\] {
-  font-size: 5rem;
 }
 
 .text-\[6rem\] {
